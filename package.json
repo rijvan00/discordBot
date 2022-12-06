@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^16.0.1",
+    "global": "^4.4.0",
+    "nodemon": "^2.0.19",
+    "ytdl-core": "^4.11.0"
+  },
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/bot.js"
+  },
+  "author": "mark42",
+  "license": "ISC",
+  "description": ""
+}
